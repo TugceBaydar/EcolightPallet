@@ -36,6 +36,10 @@ body {
 .table > thead > tr > th, .table > thead > tr > td, .table > tbody > tr > th, .table > tbody > tr > td, .table > tfoot > tr > th, .table > tfoot > tr > td{
   border-top: 1px solid #ffc30066;
 }
+
+.ENTR {
+  margin-top: 10%;
+}
 a {
   color: #FFC300;
   -webkit-transition: 0.5s;
